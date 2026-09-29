@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://safe24-smart-store.netlify.app/sitemap.xml
